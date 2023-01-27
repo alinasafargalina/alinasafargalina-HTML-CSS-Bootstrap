@@ -1,0 +1,45 @@
+body {
+    background-color: #26322b;
+}
+.navbar {
+    font-family: 'Lobster', cursive;
+    color: #FAEAB1;
+    font-size: 25px;
+    padding: 30px;
+}
+.navbar-inner{
+    background-image: url("https://images.unsplash.com/photo-1612979168796-bcae1575b8c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hyaXN0bWFzJTIwdHJlZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1500&q=60");
+    background-repeat: no-repeat;
+  } 
+.styles {
+    font-family: 'Merriweather', serif;
+    color: #FAEAB1;
+}
+.gallery {
+    font-family: 'Lobster', cursive;
+    color: #FAEAB1;
+}
+.call {
+    font-family: 'Lobster', cursive;
+    color: #FAEAB1;
+    background-image: url("https://images.unsplash.com/photo-1612979168796-bcae1575b8c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hyaXN0bWFzJTIwdHJlZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1500&q=60");
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+}
+.button:hover {
+    background-color: #FAEAB1;
+}
+.btn {
+    background-color: #26322b;
+    color: #FAEAB1;
+}
+.btn:hover {
+    background-color: #FAEAB1;
+}
+.plans {
+    color: #26322b;
+}
+.card {
+    background-color: #FFFBEB;
+}
